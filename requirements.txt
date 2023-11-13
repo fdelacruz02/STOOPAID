@@ -5,10 +5,7 @@ streamlit==1.18.1
 faiss-cpu==1.7.4
 streamlit-extras
 
-[options.packages.find]
-where = src
 
-[options.entry_points]
 
 
 openai
